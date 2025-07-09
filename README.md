@@ -1,5 +1,5 @@
-####Hannah Thacker
-####Southwest Technical College
+###### Hannah Thacker
+###### Southwest Technical College
 # Advanced-Web-Development
 
 This reopsitory exists to hold my assignments for future classes in order to keep everything organized and easily accessible.
